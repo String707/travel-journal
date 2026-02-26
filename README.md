@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Travel Journal Web Application
 Overview
 
@@ -24,3 +25,7 @@ JavaScript (ES6+)
 HTML5
 
 CSS3
+=======
+# travel-journal
+A responsive web application that allows users to document and relive their travel experiences digitally. The platform enables users to create personalized travel entries with images, descriptions, and locations, transforming memories into an interactive digital diary. 
+>>>>>>> 827a276c38b879cb67585c1e596d136167690313
