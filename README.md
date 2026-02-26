@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Travel Journal Web Application
 Overview
 
